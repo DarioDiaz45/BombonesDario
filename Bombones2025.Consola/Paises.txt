@@ -1,0 +1,29 @@
+01 | Estados Unidos  
+02 | Canada 
+03 | Mexico  
+04 | Brasil  
+05 | Argentina  
+06 | Colombia  
+07 | Chile  
+08 | Peru  
+09 | Venezuela  
+10 | España  
+11 | Francia  
+12 | Alemania  
+13 | Italia  
+14 | Reino Unido  
+15 | Rusia  
+16 | China  
+17 | India  
+18 | Japon  
+19 | Corea del Sur  
+20 | Australia  
+21 | Sudafrica  
+22 | Egipto  
+23 | Turquaa  
+24 | Arabia Saudita  
+25 | Indonesia  
+26 | Filipinas  
+27 | Tailandia  
+28 | Ucrania  
+29 | Nigeria  

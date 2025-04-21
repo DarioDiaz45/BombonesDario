@@ -1,0 +1,3 @@
+1|Almendra|España|Dulce
+2|Nuez|Argentina|Amargo
+3|Avellana|Italia|Dulce

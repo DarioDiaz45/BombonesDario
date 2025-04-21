@@ -1,0 +1,10 @@
+1|Dulce de leche
+2|Crema de avellanas
+3|Licor de cereza
+4|Menta
+5|Maracuyá
+6|Ganache de chocolate
+7|Frutilla
+8|Café
+9|Coco
+10|Almendra crocante

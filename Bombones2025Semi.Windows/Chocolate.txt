@@ -1,0 +1,5 @@
+1|Amargo
+2|Semiamargo
+3|Cacao 60%
+4|Con leche
+5|Blanco

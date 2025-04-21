@@ -1,0 +1,5 @@
+1|Almendra
+2|Nuez
+3|Avellana
+4|Castaña de Cajú
+5|Pistacho
